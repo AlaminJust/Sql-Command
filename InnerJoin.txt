@@ -5,3 +5,6 @@ INNER JOIN another_table
 WHERE condition(s)
 ORDER BY column, … ASC/DESC
 LIMIT num_limit OFFSET num_offset;
+
+https://gist.github.com/CSaratakij/dfef81cd71c0f616d4d36a189247b19e
+https://sqlbolt.com/lesson/select_queries_with_joins
